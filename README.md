@@ -1,6 +1,7 @@
 
 
 # Project Overview
+![image](https://github.com/soufianesejjari/Dynamic-Performance-Analytics-API-Leveraging-MySQL-and-FastAPI/assets/81421925/9f49b8ff-1ccb-4863-a3ee-d7a6f50a4170)
 
 L'API de visites est un service qui permet d'obtenir des données à partir d'une base de données MySQL et d'effectuer des traitements sur ces données pour générer des graphiques dynamiques. L'API utilise également un mécanisme de mise en cache pour optimiser les performances et réduire les requêtes à la base de données.
 
